@@ -4,7 +4,6 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://media.licdn.com/dms/image/D5616AQEt5R9Wqaz_Lw/profile-displaybackgroundimage-shrink_350_1400/0/1691704774973?e=1721260800&v=beta&t=0NMlTCTuTpX9vjm_7LMYC4pjjLbX2DQAZtXzBAy7RpI" width="100%" />
   </div>
   <br>
   <div id="badges">
