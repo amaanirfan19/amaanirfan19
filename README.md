@@ -24,7 +24,7 @@
 
 #### 👨‍💻 About Me :
 
-I am a 4th year student at the University of Waterloo majoring in Computational Mathematics and pursuing a minor in Computer Science. I am driven by a profound interest in ML/AI and have displayed valuable experience from 5 prior Data Science & SWE internships. My diverse skill set uniquely positions me to innovate and excel at the intersection of technology and data-driven solutions.
+I am a University of Waterloo gradute in Computational Mathematics and pursuing a minor in Computer Science. I am driven by a profound interest in ML/AI and have displayed valuable experience from 5 prior Data Science & SWE internships. My diverse skill set uniquely positions me to innovate and excel at the intersection of technology and data-driven solutions.
 
 #### 🎓 Certifications :
 
